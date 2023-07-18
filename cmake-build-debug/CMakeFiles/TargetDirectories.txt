@@ -1,0 +1,3 @@
+C:/Users/שלמה/CLionProjects/test_train/cmake-build-debug/CMakeFiles/test_train.dir
+C:/Users/שלמה/CLionProjects/test_train/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/שלמה/CLionProjects/test_train/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,25 @@
+# ninja log v5
+1	1275	7113688352470200	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+68	1518	7113688354906003	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+1518	1792	7113688357583963	test_train.exe	a177e99d1ace739b
+5	973	7113689028639713	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+974	1210	7113689030932960	test_train.exe	a177e99d1ace739b
+3	1004	7113689380386460	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+1004	1221	7113689382487066	test_train.exe	a177e99d1ace739b
+2	1087	7113689694106691	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+48	1458	7113689697830351	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+1459	1720	7113689700301530	test_train.exe	a177e99d1ace739b
+3	1035	7113691118453568	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+1036	1337	7113691121428889	test_train.exe	a177e99d1ace739b
+2	947	7113719096225936	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+37	1248	7113719099240867	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+1248	1509	7113719101797825	test_train.exe	a177e99d1ace739b
+3	914	7113719295307111	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+915	1123	7113719297343587	test_train.exe	a177e99d1ace739b
+3	936	7113719450917003	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+937	1155	7113719453040806	test_train.exe	a177e99d1ace739b
+2	915	7113719615073061	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+915	1128	7113719617149677	test_train.exe	a177e99d1ace739b
+4	968	7113723917203880	CMakeFiles/test_train.dir/main.cpp.obj	6b790738bc33407
+43	1282	7113723920350760	CMakeFiles/test_train.dir/Fraction.cpp.obj	ccf27c60ea4eeb12
+1282	1511	7113723922569384	test_train.exe	a177e99d1ace739b
